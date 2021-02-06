@@ -1,2 +1,2 @@
 # nunsinee-viken-js1-ma3
-Module Assignment 3
+Javascript 1 MA3 - Assignment
